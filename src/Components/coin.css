@@ -1,0 +1,11 @@
+.indexes{
+    background-color: rgb(34, 87, 231);
+    color: white;
+    border-radius: 19px;
+    padding: 4px;
+    font-weight: 400;
+}
+.oc{
+    border: 2px solid rgb(175, 171, 171);
+    border-radius: 10px;
+}

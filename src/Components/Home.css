@@ -1,0 +1,15 @@
+.bkg{
+    background-image: url('../assets/bkg3.avif');  
+    background-size: cover; 
+    width: 99.99vw;
+    height: 88.8vh;
+}
+.words{
+    padding-left: 110px;
+    width: 1160px;
+    padding-top: 90px;
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    
+}

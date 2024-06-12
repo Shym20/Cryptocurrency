@@ -1,0 +1,7 @@
+.home,.coin,.exchange{
+    font-size: 25px;
+    margin-right: 18px;
+}
+.home:hover,.coin:hover,.exchange:hover{
+    color: rgb(184, 179, 179);
+}
